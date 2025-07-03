@@ -1,0 +1,8 @@
+
+schemaVersion: 2.2.0
+metadata:
+  name: ai-che-url-shortener
+components:
+  - name: tools
+    container:
+      image: quay.io/okurinny/dev-tools:latest
