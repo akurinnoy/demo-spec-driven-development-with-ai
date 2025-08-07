@@ -1,0 +1,13 @@
+# AI tools temporary files and directories
+.aider*
+.ra-aid/
+
+# Node.js
+/frontend/node_modules/
+/frontend/build/
+
+# Go
+che-url-shortener-server
+
+# OS
+.DS_Store
